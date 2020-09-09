@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!eergvgfve" +
                 "tgtgtygybybhbhbhbghbyhbhbh");
+            Console.WriteLine("Hello World!eergvgfve" +
+                "tgtgtygybybhbhbhbghbyhbhbh");
         }
     }
 }
